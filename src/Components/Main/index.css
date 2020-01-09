@@ -1,0 +1,11 @@
+.App {
+    padding: 2%;
+  }
+  
+  .fav-icon svg {
+    cursor: pointer;
+  }
+  
+  nav.navbar {
+    background-color: turquoise;
+  }
